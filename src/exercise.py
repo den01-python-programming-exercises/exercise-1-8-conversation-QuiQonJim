@@ -3,8 +3,7 @@ def main():
     print(first)#write your code below this line
     second = input('Oh, how interestig. Tell me more!')
     print(second)
-    third = input('Thanks for sharing!')
-    print(third)
+    print = ('Thanks for sharing!'')
 
 
 if __name__ == '__main__':
